@@ -12,7 +12,7 @@
 // Add mongodb and mongoose to the project's package.json. Then require 
 const mongoose = require('mongoose');
 
-process.env.MONGO_URI="mongodb+srv://jasneljuillet09:Juillet09@cluster0-ozox9.mongodb.net/test?retryWrites=true&w=majority";
+process.env.MONGO_URI="xxxx";
 
 // mongoose. Store your Mongo Atlas database URI in the private .env file 
 //mongoose.connect(process.env.MONGO_URI);
